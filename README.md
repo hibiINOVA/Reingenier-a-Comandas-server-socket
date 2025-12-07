@@ -12,4 +12,3 @@ Levantar servidor, cualquiera de estos dos comandos
 ```
 nodemon dist/
 node dist/
-```# Reingenier-a-Comandas-server-socket
